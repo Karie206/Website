@@ -13,7 +13,7 @@ markdown
 
 ## 👤 Tác giả | Author
 
-**Thái Kiệt** — Computer Science Student
+**Thái Kiệt** (Karie206) 
 
 <a href="https://github.com/Karie206">
   <img src="https://img.shields.io/badge/GitHub-Karie206-181717?style=for-the-badge&logo=github&logoColor=white"/>
